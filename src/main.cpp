@@ -187,13 +187,13 @@ void ShortestRoute() {
   cout << "Your Route: "
        << "\n"
        << endl;
-  cout << " RIVERSIDE to PERRIS (24 miles) to \n MORENO VALLEY (18 miles)  to "
-          "HEMET (26 miles) "
+  cout << " RIVERSIDE to MORENO VALLEY (16 miles) to \n PERRIS (18 miles) to "
+          "HEMET (30 miles) "
        << "\n"
        << endl;
   cout << "Route: " << endl;
-  cout << " 1 -> 2 -> 3 -> 4" << endl;
-  cout << " Total Miles: 68 " << endl;
+  cout << " 1 -> 3 -> 2 -> 4" << endl;
+  cout << " Total Miles: 64 " << endl;
   cout << "---------------------------------------" << endl;
 }
 
